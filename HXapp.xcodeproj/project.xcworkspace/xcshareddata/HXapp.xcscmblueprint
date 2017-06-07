@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D3BE4690937A0B43AA239570EE9B87CDD24AA4BD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "e88e7ddf-44c6-44d9-bda3-70cc007375f9++7378" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D3BE4690937A0B43AA239570EE9B87CDD24AA4BD" : 0,
+    "e88e7ddf-44c6-44d9-bda3-70cc007375f9++7378" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D097FE09-AB3E-4332-AD31-CE1C1C622CEB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D3BE4690937A0B43AA239570EE9B87CDD24AA4BD" : "HXapp\/",
+    "e88e7ddf-44c6-44d9-bda3-70cc007375f9++7378" : "HXapp\/HXapp\/SMProgressHUD\/progresshud.bundle\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HXapp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HXapp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "192.168.100.104:xiaoyuting\/HEXIAO.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D3BE4690937A0B43AA239570EE9B87CDD24AA4BD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/SMProgressHUD",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e88e7ddf-44c6-44d9-bda3-70cc007375f9++7378"
+    }
+  ]
+}
